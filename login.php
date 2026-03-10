@@ -1,0 +1,3 @@
+<?php
+echo "Student Login Page";
+?>
